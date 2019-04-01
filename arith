@@ -1,0 +1,21 @@
+python script to perform basic arithmetic operations on two values which are accepted from the user
+PROGRAM:
+a=int(input("Enter a:"))
+b=int(input("Enter b:"))
+print('sum of',a,'and',b,'is:',a+b)
+print('sub of',a,'and',b,'is:',a-b)
+print('mul of',a,'and',b,'is:',a*b)
+print('floatdiv of',a,'and',b,'is:',a/b)
+print('intdiv of',a,'and',b,'is:',a//b)
+print('moddiv of',a,'and',b,'is:',a%b)
+print('power of',a,'and',b,'is:',a**b)
+INPUT-OUTPUT:
+Enter a:10
+Enter b:20
+sum of 10 and 20 is: 30
+sub of 10 and 20 is: -10
+mul of 10 and 20 is: 200
+floatdiv of 10 and 20 is: 0.5
+intdiv of 10 and 20 is: 0
+moddiv of 10 and 20 is: 10
+power of 10 and 20 is: 100000000000000000000
